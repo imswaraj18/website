@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+}
+.navbar{
+    padding: 0 !important;
+}
+#nav-bar{
+    
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img {
+    height: 250px;
+    padding-left: 0px;
+}
+.navbar-nav li{
+    padding-left: 0px;
+    padding-inline-start: 50px;
+    background-color: rgb(224, 117, 117);
+    padding-right: 20px;
+  
+}
+.navbar-nav li a{
+    color: white !important;
+    font-weight: 400;
+    float: right;
+    text-align: left;
+}
+.row{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    font-weight: 300;
+    padding: 30px;
+    font-style: normal;
+    
+}
+#right{
+    
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 80px;
+}
